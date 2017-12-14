@@ -1,0 +1,16 @@
+{
+  "name": "prueba",
+  "version": "0.0.0",
+  "description": "prueba de ram",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.10.2",
+    "socket.io": "^1.4.8"
+  }
+}
